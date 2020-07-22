@@ -65,7 +65,7 @@ AWSを使う中で自分でバックエンドやフロントエンドのアプ�
 
 ## 資格
 
-- AWS Certified　9つ（CLF、SAA、DVA、SOA、SAP、DOP、ANS、BDS、SCS）
+- AWS Certified　10個（CLF、SAA、DVA、SOA、SAP、DOP、ANS、BDS、SCS、DBS）
 - 普通自動車第一種運転免許
 
 ## 言語
