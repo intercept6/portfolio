@@ -53,6 +53,9 @@ AWSを使う中で自分でバックエンドやフロントエンドのアプ�
 
 - [みんなのAWS 〜AWSの基本を最新アーキテクチャでまるごと理解！
  | 技術評論社](https://gihyo.jp/book/2020/978-4-297-11329-2)
+   - [「みんなのAWS〜AWSの基本を最新アーキテクチャでまるごと理解！」出版記念全著者トーク１](https://logmi.jp/tech/articles/323253)
+   - [「みんなのAWS〜AWSの基本を最新アーキテクチャでまるごと理解！」出版記念全著者トーク2](https://logmi.jp/tech/articles/323290)
+   - [「みんなのAWS〜AWSの基本を最新アーキテクチャでまるごと理解！」出版記念全著者トーク3](https://logmi.jp/tech/articles/323362)
 - [Software Design 2019年6〜9月号 特別企画 クラウドへのルータ接続実践ノウハウ](https://gihyo.jp/magazine/SD/archive/2019/201906)
 
 ### 登壇
