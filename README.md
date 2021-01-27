@@ -60,6 +60,7 @@ AWSを使う中で自分でバックエンドやフロントエンドのアプ�
 
 ### 登壇
 
+- [July Tech Festa 2021 Winter | AWS CDKでInfrastructure as Code 〜 インフラの構築・改善をもっと早く！](https://www.youtube.com/watch?v=J3VhDEKidGc)
 - [Developers.IO 2019 | AWS CDKの基本と実例](https://speakerdeck.com/kmd2kmd/aws-cdkfalseji-ben-toshi-li)
 - [Yappli Meetup 〜Site Reliability Engineering〜＠アカツキ | AWSマルチアカウント管理術](https://speakerdeck.com/kmd2kmd/awsmarutiakauntoguan-li-shu)
 - [Developers.IO 2018 | 知って備えれば怖くない！AWS移行ガイド](https://speakerdeck.com/kmd2kmd/developers-io-2018-zhi-tutebei-erehabu-kunai-awsyi-xing-kaito)
