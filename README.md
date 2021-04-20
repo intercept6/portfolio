@@ -53,10 +53,14 @@ AWSを使う中で自分でバックエンドやフロントエンドのアプ�
 
 - [みんなのAWS 〜AWSの基本を最新アーキテクチャでまるごと理解！
  | 技術評論社](https://gihyo.jp/book/2020/978-4-297-11329-2)
+   - [「みんなのAWS〜AWSの基本を最新アーキテクチャでまるごと理解！」出版記念全著者トーク１](https://logmi.jp/tech/articles/323253)
+   - [「みんなのAWS〜AWSの基本を最新アーキテクチャでまるごと理解！」出版記念全著者トーク2](https://logmi.jp/tech/articles/323290)
+   - [「みんなのAWS〜AWSの基本を最新アーキテクチャでまるごと理解！」出版記念全著者トーク3](https://logmi.jp/tech/articles/323362)
 - [Software Design 2019年6〜9月号 特別企画 クラウドへのルータ接続実践ノウハウ](https://gihyo.jp/magazine/SD/archive/2019/201906)
 
 ### 登壇
 
+- [July Tech Festa 2021 Winter | AWS CDKでInfrastructure as Code 〜 インフラの構築・改善をもっと早く！](https://www.youtube.com/watch?v=J3VhDEKidGc)
 - [Developers.IO 2019 | AWS CDKの基本と実例](https://speakerdeck.com/kmd2kmd/aws-cdkfalseji-ben-toshi-li)
 - [Yappli Meetup 〜Site Reliability Engineering〜＠アカツキ | AWSマルチアカウント管理術](https://speakerdeck.com/kmd2kmd/awsmarutiakauntoguan-li-shu)
 - [Developers.IO 2018 | 知って備えれば怖くない！AWS移行ガイド](https://speakerdeck.com/kmd2kmd/developers-io-2018-zhi-tutebei-erehabu-kunai-awsyi-xing-kaito)
@@ -65,7 +69,7 @@ AWSを使う中で自分でバックエンドやフロントエンドのアプ�
 
 ## 資格
 
-- AWS Certified　9つ（CLF、SAA、DVA、SOA、SAP、DOP、ANS、BDS、SCS）
+- AWS Certified　10個（CLF、SAA、DVA、SOA、SAP、DOP、ANS、BDS、SCS、DBS）
 - 普通自動車第一種運転免許
 
 ## 言語
