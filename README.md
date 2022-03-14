@@ -9,8 +9,9 @@
   - [Twitter](https://twitter.com/r_karotou)
   - [GitHub](https://github.com/intercept6)
 - Blogs
-  - [Qiita](https://qiita.com/r_karotou)
+  - [Zenn](https://zenn.dev/intercept6)
   - [Developers.IO(企業ブログ)](https://dev.classmethod.jp/author/kato-ryo/)
+  - [Qiita](https://qiita.com/r_karotou)
 
 ## 自己紹介
 
