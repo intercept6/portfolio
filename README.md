@@ -30,12 +30,12 @@ AWSを使う中で自分でバックエンドやフロントエンドのアプ�
   - TypeScript: 1年
 - AWS ECSを使ったgRPC API開発: 1年
   - Go: 1年
-- React/Next.jsを使ったフロントエンド開発: 2年
-  - TypeScript: 2年
+- React/Next.jsを使ったフロントエンド開発: 3年
+  - TypeScript: 3年
 - AWSサーバレス構築: 1年
 - Infrastructure as Code
   - Terraform: 2年
-  - AWS CDK（CloudFormation）: 1年
+  - AWS CDK（CloudFormation）: 2年
 
 ### プリセールスエンジニア
 
